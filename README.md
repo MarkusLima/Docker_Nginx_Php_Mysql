@@ -311,11 +311,11 @@ curl --location --request GET 'http://localhost:8000/?route=client_delete&params
 
 ## Visual of the application
 ![App Screenshot](https://github.com/MarkusLima/Docker_Nginx_Php_Mysql/blob/master/doc/diagrama_relacional.png)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MarkusLima/Docker_Nginx_Php_Mysql/blob/master/doc/Capturar.PNG)
+![App Screenshot](https://github.com/MarkusLima/Docker_Nginx_Php_Mysql/blob/master/doc/Capturar1.PNG)
+![App Screenshot](https://github.com/MarkusLima/Docker_Nginx_Php_Mysql/blob/master/doc/Capturar2.PNG)
+![App Screenshot](https://github.com/MarkusLima/Docker_Nginx_Php_Mysql/blob/master/doc/Capturar4.PNG)
+![App Screenshot](https://github.com/MarkusLima/Docker_Nginx_Php_Mysql/blob/master/doc/Capturar5.PNG)
 
 
 
